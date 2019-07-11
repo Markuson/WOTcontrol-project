@@ -14,12 +14,12 @@ To set up a device you should have a nodeMCU board a micro usb cable and the ard
 
 First, download the code from the nodeMCU board [here](../../WOT-arduino/wotdevice)
 
-befor upload the code to the board you should introduce your SSID and password.
+Once  the code is uploaded to the board you should introduce your SSID and password.
 
 
 ![ssid](images/ssid.png)
 
-once you set your SSID and ip and uploaded your board, you shoul connect it to a serial monitor for first time to see what ip the board have. The board usually allways mantains the same ip. so, once you know the devices IP you shoulb be able to disconect it from the serial monitor ahnd plug it whaterver you want allways under the same networf of the server.
+once you set your SSID and ip and uploaded your board, you shoul connect it to a serial monitor for first time to see what ip the board have. The board usually allways mantains the same ip. so, once you know the devices IP you shoulb be able to disconect it from the serial monitor and plug it whaterver you want allways under the same network of the server.
 
 
 # Functional Description
