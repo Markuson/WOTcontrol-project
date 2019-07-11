@@ -4,4 +4,4 @@
 
 ## [Demo](http://wotcon.surge.sh/#/)
 
-Before start, you should download and run the server into your local network and set up at least one device.
+**Important notice:** This project involves the use of microcontrollers. Hence, for a proper use the client, the server, and the microcontroller should run on a local network. Find more information in the documentation.
